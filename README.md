@@ -16,7 +16,7 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 
 #### Desktop Design
 
-![Huddle landing page](./design/desktop-design.png)
+![Base Apparel coming soon page](./design/desktop-design.png)
 
 #### Mobile Design
 
@@ -24,8 +24,8 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 
 ## Links
 
--  Solution URL: [Click Here](https://www.frontendmentor.io/solutions/nft-preview-card-component-using-html-and-css-owVJujYs59)
--  Live Site URL: [Click Here](https://iammukeshmahato.github.io/base-apparel-coming-soon/)
+-  Solution URL: [Click Here](https://www.frontendmentor.io/solutions/base-apparel-coming-soon-page-using-html-css-and-js-I1jBjO5R8L)
+-  Live Site URL: [Click Here](https://iammukeshmahato.github.io/base-apparel-coming-soon-page/)
 
 ## ⚙ Built with
 
